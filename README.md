@@ -1,3 +1,9 @@
+## Data Science Specialization
+
+* Uses R
+* Nine courses
+* Goes from raw data to data products
+
 ### Introduction
 
 This second programming assignment will require you to write an R
