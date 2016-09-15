@@ -8,4 +8,5 @@ int main() {
    cout << "Another line\n";
    cout << "A fifth option\n";
    cout << "The next line\n";
+   // A comment line
 }
